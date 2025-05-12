@@ -1,5 +1,5 @@
 # HR Interview – 30 Most Common Questions 
-
+<img src="https://github.com/TuShArBhArDwA/Most-common-HR-interview-questions/blob/main/hr.png" width="70%" />
 
 ---
 
