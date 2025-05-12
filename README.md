@@ -145,7 +145,10 @@
     - **Answer:** Ask thoughtful, role-specific questions.
     - **Example:** "How do you evaluate new grads for promotion to SDE II? And what’s the onboarding process like for someone returning as FTE after an internship?"
 
+---
+
 ### **Get More Questions here ->** [View File](https://topmate-staging.s3.amazonaws.com/h5PCjWj8P3vAmhy8b1ejss.pdf)
+---
 
 ## Authors
 
